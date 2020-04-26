@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "FlmClient\Main.csproj", "{0A07C37C-1A4B-4A22-874B-F7625FD07663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlmApiClient", "FlmApiClient\FlmApiClient.csproj", "{61FA91C1-3761-4F68-8CE8-4776F7FF7EE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A07C37C-1A4B-4A22-874B-F7625FD07663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A07C37C-1A4B-4A22-874B-F7625FD07663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A07C37C-1A4B-4A22-874B-F7625FD07663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A07C37C-1A4B-4A22-874B-F7625FD07663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61FA91C1-3761-4F68-8CE8-4776F7FF7EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FA91C1-3761-4F68-8CE8-4776F7FF7EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FA91C1-3761-4F68-8CE8-4776F7FF7EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FA91C1-3761-4F68-8CE8-4776F7FF7EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169AD703-5B5C-44D8-8640-8D820DB9B01E}
+	EndGlobalSection
+EndGlobal
