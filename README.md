@@ -1,7 +1,19 @@
-## Welcome to the Field Level Media Api project
+### Welcome to the Field Level Media Api project
 
-Here, you will find documentation and examples of using the FLM Api.
+## The Repo
+[Sample code](https://github.com/FlmDeveloper/Api/tree/dev/src/CSharp) for c# client
 
-To get started, review the [documentation](https://github.com/FlmDeveloper/Api/wiki) 
+Coming Soon - Postman
 
+## API Documentation
+[Authentication](https://github.com/FlmDeveloper/Api/wiki/Authentication)
 
+[Sport](https://github.com/FlmDeveloper/Api/wiki/GET-Sport)
+
+[League](https://github.com/FlmDeveloper/Api/wiki/GET-League)
+
+[Story](https://github.com/FlmDeveloper/Api/wiki/GET-Story)
+
+[StoryType](https://github.com/FlmDeveloper/Api/wiki/GET-StoryType)
+
+[Game](https://github.com/FlmDeveloper/Api/wiki/GET-Game)
