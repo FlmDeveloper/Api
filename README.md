@@ -3,7 +3,7 @@
 ### The Repo
 [Sample code](https://github.com/FlmDeveloper/Api/tree/dev/src/CSharp) for c# client
 
-Coming Soon - Postman
+[Configuration files](https://github.com/FlmDeveloper/Api/tree/dev/src/Postman) for Postman
 
 ### API Documentation
 [Authentication](https://github.com/FlmDeveloper/Api/wiki/Authentication)
